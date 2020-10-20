@@ -1,5 +1,5 @@
 # Ames Housing
-Code used for the Kaggle competition on the Ames Housing dataset
+Code used for the Kaggle competition on the Ames Housing dataset. This is a high dimensional regression problem. We cover how to impute missing values, feature engineering, and blending. In the end we combine prediction that uses Support Vector Machines, Random Forests, Gradient Boosting, and a Elastic Net regressor. 
 
 ![What is this](images/ames.png)
 
