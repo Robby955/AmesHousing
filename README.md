@@ -10,7 +10,7 @@ We will show for a relatively large dataset, it is better and faster to work wit
 ![What is this](images/housingprice.png)
 
 Of course, we want to get a baseline idea of how each predictor impacts sale price
-![What is this](images/housing2.png)
+![What is this](images/housingpic.png)
 
 We will also examine the relationships between predictors themselves.
 ![What is this](images/housing3.png)
